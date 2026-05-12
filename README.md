@@ -20,6 +20,8 @@ Estou em constante evolução no aprendizado de novas tecnologias, com foco prá
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-2EA043?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Gemini_CLI-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini CLI" />
   <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Antigravity" />  
 </div>
 
